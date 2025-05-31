@@ -1,6 +1,6 @@
 # Time
 
-A small project that aims to prevent the destruction of the melatonine while very briefly watch the current hour in the dark night...
+A small project that aims to prevent the destruction of the melatonine while very briefly monitoring the current hour in the dark night...
 * Support Picture display behind clock
 * Uses NTP with WIFI to get the current hour
 * Commented-out: ability to check if there"s a network connection
