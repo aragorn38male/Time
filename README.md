@@ -1,6 +1,8 @@
 # Time
+
 A small project that aims to prevent the destruction of the melatonine while very brievly watch the current hour in the dark night...
-* Uses NTP with WIFI to get the current hour.
+* Support Picture display behind clock
+* Uses NTP with WIFI to get the current hour
 
 For a darker effect, comment line 36 to hide the picture
 &
